@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raakeshkamal
 - 👀 I’m interested in Electronics, Robotics, AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on OpenSource Projects in C,C++,Python
+- 🌱 I’m currently Rust-pilled 💊
+- 💞️ I’m looking to collaborate on OpenSource Projects in Rust,C,C++,Python
 - 📫 How to reach me - https://www.linkedin.com/in/raakesh-kamal/
 
 <!---
